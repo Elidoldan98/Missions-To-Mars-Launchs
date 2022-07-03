@@ -1,6 +1,11 @@
 # Proyecto Missiones a Marte
 Proyecto web de inicio de sesion para un viajde de Misiones a marte, actualmente no es funcional, solamente visual. 
+
+
+
 Tengo como objetivo: 
+
+
 * Que la pagina te permita registrarte con todos tus datos.
 * Te envie una notificacion al mail que ya estas registrado.
 * Establecer un calendario de lanzamientos cada mes con un cupo limitado de gente. 
